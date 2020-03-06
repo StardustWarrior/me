@@ -153,7 +153,7 @@ class Introduction extends Component{
                 <a href="#work"><ArrowDropDownCircleIcon /></a>
             </div>
 
-            <ParticlesBg type="circle" bg={true} />
+            <ParticlesBg type="cobweb" bg={true} />
         </div>
         );
     }
